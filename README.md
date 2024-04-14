@@ -1,1 +1,1 @@
-# This is a countdime clock timer deloved with Javascript application
+# This is a countdown clock timer deloved with Javascript application
