@@ -1,1 +1,1 @@
-# Java-3
+# This is a countdime clock timer deloved with Javascript application
