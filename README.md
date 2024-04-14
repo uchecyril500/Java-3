@@ -1,1 +1,1 @@
-# JGrocery store app built with Java script
+# Grocery store app built with Java script
